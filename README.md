@@ -1,5 +1,6 @@
 # Reya-Python-for-beginners
 #Simple Interest using functions
+
 P = int(input("Enter the principal: "))
 
 R = 10
